@@ -3,8 +3,17 @@
   "version": "0.0.1",
   "description": "State Machine Framework for ClearVox",
   "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearvox/clearvox-state-machine.git"
   },
   "keywords": [
     "clearvox",
@@ -14,6 +23,8 @@
   ],
   "author": "Yme-Jan Iedema <yme-jan@clearvox.nl>",
   "license": "MIT",
-  "dependencies": {
-  }
+  "bugs": {
+    "url": "https://github.com/clearvox/clearvox-state-machine/issues"
+  },
+  "homepage": "https://github.com/clearvox/clearvox-state-machine#readme"
 }
