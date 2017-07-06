@@ -1,0 +1,19 @@
+{
+  "name": "clearvox-state-machine",
+  "version": "0.0.1",
+  "description": "State Machine Framework for ClearVox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clearvox",
+    "state",
+    "machine",
+    "framework"
+  ],
+  "author": "Yme-Jan Iedema <yme-jan@clearvox.nl>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
