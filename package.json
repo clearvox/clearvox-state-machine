@@ -1,5 +1,5 @@
 {
-  "name": "clearvox-state-machine",
+  "name": "@clearvox/clearvox-state-machine",
   "version": "0.0.1",
   "description": "State Machine Framework for ClearVox",
   "main": "index.js",
